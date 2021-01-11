@@ -25,7 +25,7 @@
 <p>to do a search with the bot just send the command /search <keyword> or just /search</p>
   
   
-Technologies:
+📱Technologies:
 =================
 <ul>
   <li>NodeJS</li>
