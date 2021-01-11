@@ -21,7 +21,7 @@
 📘How to use:
 =================
 <p>to start the program just run <b>npm test</b> and authenticate your whatsapp with the bot using the qr code that will appear on the screen.</p>
-
+<p>to do a search with the bot just send the command /search <keyword> or just /search</p>
 Technologies:
 =================
 <ul>
