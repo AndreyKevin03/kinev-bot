@@ -1,0 +1,23 @@
+{
+  "name": "kinev-bot",
+  "version": "1.0.0",
+  "description": "kinev-bot is a bot for whatsapp made in javascript using node and is used to do searches on wikipedia using keywords.",
+  "main": "index.js",
+  "repository": "https://github.com/AndreyKevin03/kinev-bot.git",
+  "author": "AndreyKevin03",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [
+    "bot",
+    "robot",
+    "wikipedia",
+    "whatsapp"
+  ],
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "node": "^15.4.0",
+    "venom-bot": "^2.2.3"
+  }
+}
