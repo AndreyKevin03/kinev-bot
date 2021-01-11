@@ -12,7 +12,9 @@
 
 🔧Installation:
 =================
-<p>You need to install Node.js and Npm first and then download the code on your machine.</p>
+<p>First you need to install Node.js and Npm first and then download the code on your machine.</p>
+
+<p>Now you have to register on the Algorithmia website, copy your key and paste it in place of "PUT YOUR KEY HERE", which is in the search.js file</p>
 
 <p>To install the necessary dependencies open the console in the project folder and run the command: <b>npm i</b></p>
 
