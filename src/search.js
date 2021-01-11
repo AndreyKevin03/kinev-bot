@@ -10,7 +10,7 @@ async function bot(text) {
                 "articleName": `${text}`,
                 "lang": "en"
             }
-            const authentication = algorithmia('KEY OF THE ALGORITHMIA')
+            const authentication = algorithmia('PUT YOUR KEY HERE')
             const algorithm = authentication.algo('web/WikipediaParser/0.1.2')
             const searchready = await algorithm.pipe(data)
             const getsearch = searchready.get()
