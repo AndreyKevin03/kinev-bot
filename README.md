@@ -1,5 +1,5 @@
-<h1 align="center">kinev-bot</h1>
-<p align="center">kinev-bot is a bot for whatsapp made in javascript using node and is used to do searches on wikipedia using keywords.</p>
+<h1 align="center">Kinev-Bot</h1>
+<p align="center">Kinev-bot is a bot for Whatsapp made in JavaScript using NodeJS and is used to do searches on Wikipedia using keywords.</p>
 
 📌Summary:
 =================
