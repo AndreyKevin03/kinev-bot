@@ -30,4 +30,4 @@ Technologies:
   <li>Algorithmia</li>
 </ul>
 
-<h2>Made in Andrey Kevin</h2>
+<h2>Made by Andrey Kevin</h2>
